@@ -2,7 +2,7 @@
 
 from unittest import TestCase, main
 
-import common_tools as cmt
+from mylib import common_tools as cmt
 
 
 class CommonToolsTest(TestCase):
